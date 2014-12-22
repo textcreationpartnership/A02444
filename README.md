@@ -35,18 +35,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A nevv treatise of the pestilence, containing the causes, signes, preseruatiues and cure thereof The
+
 #####Body#####
 
-1. Of the cure of the Peſtilence.
+1. A TREATISE OF the Peſtilence.
 
-1. Pils for the reſiſting of the Peſtilence.
+    _ Of the cure of the Peſtilence.
 
-1. An other preſeruatiue againſt the Peſtilence.
+    _ Pils for the reſiſting of the Peſtilence.
 
-1. Of the cure of the Peſtilence.
+    _ An other preſeruatiue againſt the Peſtilence.
 
-1. An other electuarie to be taken after infection.
+    _ Of the cure of the Peſtilence.
+
+    _ An other electuarie to be taken after infection.
 
 **Types of content**
 
